@@ -1,0 +1,32 @@
+_repo: Adventures-Among-Books_1994
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- History and criticism'
+- GITenberg
+tableOfContents: Adventures among books -- Recollections of Robert Louis Stevenson.  --
+  Rab's friend -- Oliver Wendell Holmes -- Mr. Morris's poems -- Mrs. Radcliffe's
+  novels -- A Scottish romanticist of 1830 [T.T. Stoddart] -- The Confessions of Saint
+  Augustine -- Smollett -- Nathaniel Hawthorne -- The paradise of poets -- Paris and
+  Helen -- Enchanted cigarettes -- Stories and story-telling -- The supernatural in
+  fiction -- An old Scottish psychical researcher [G. Sinclair] -- The boy.
+title: Adventures Among Books
+url: http://www.gutenberg.org/ebooks/1994
